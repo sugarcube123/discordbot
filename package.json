@@ -1,0 +1,17 @@
+{
+  "name": "smilr",
+  "main": "index.js",
+  "author": "SugarCube_",
+  "version": "5.0.0",
+  "repository": "cock",
+  "description": "cock and also balls",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord-player": "^3.3.2",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7"
+  }
+}
